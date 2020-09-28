@@ -2,5 +2,7 @@
 
 参考文献
 
-On Key Equation IEEE 1995
+https://sites.science.oregonstate.edu/~flahivem/442PDF/FitzpatrickDecoding.pdf
+
+On The Key Equation IEEE 1995
 
