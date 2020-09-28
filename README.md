@@ -4,5 +4,5 @@
 
 https://sites.science.oregonstate.edu/~flahivem/442PDF/FitzpatrickDecoding.pdf
 
-On The Key Equation IEEE 1995
+On the Key Equation IEEE 1995
 
