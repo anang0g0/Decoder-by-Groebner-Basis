@@ -8,6 +8,10 @@
 
 ３．https://www.researchgate.net/publication/260867979_QC-LDPC_Code-Based_Cryptography
 
+# 20201125
+
+人の書いたものをパクろうかと思ったけど、難しくて何だかわからない。
+
 # 20201124
 
 もう一つの符号に挑戦することを思い立った。
