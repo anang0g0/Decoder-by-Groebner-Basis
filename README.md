@@ -1,4 +1,4 @@
-# Encoding and Decording  QC-LDPC
+# Encoding and Decording of QC-LDPC
 
 参考文献
 
