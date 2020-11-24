@@ -1,8 +1,11 @@
-# Decoder-by-Groebner-Basis
+# Encoding and Decording QC-LDPC
 
 参考文献
 
-https://sites.science.oregonstate.edu/~flahivem/442PDF/FitzpatrickDecoding.pdf
+１．符号理論　萩原学　2012　日本評論社
 
-On the Key Equation IEEE 1995
+２.Error Correcting Coding and Security for Data Networks WILEY Kabatiansky et.al 2005 
 
+# 20201124
+
+もう一つの符号に挑戦することを思い立った。
