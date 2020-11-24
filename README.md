@@ -28,15 +28,19 @@ https://www.fei.stuba.sk/buxus/docs/2017/autoreferaty/Fabsic_autoref.pdf
 
 https://eprint.iacr.org/2012/409.pdf
 
-最新
-https://arxiv.org/pdf/1904.12215.pdf
 
 LDPCを使えばn/2くらいの重みでも訂正できる。
+
 つまりアリスの秘密のベクトルの重みwt(xb)=wt(k)=n/2とすると、
+
 仮にアリスがxbを使って復号したとしても、エラーパターンのハミング重み自体には
+
 変化が少なく（互いに消しあったりするため）、その結果x0⊕x1⊕k,とkの違いは見分けられなくなる。
+
 しかし従来の攻撃法には低密度パリティチェック符号は弱かった。
+
 そこで上記の論文で採用された方式を使って公開鍵の安全性を高めたうえで、QC-LDPCを使い
+
 この方式を復活させることを思いついた。
 
 しかしこのような攻撃が見つかっている。
@@ -47,3 +51,5 @@ https://eprint.iacr.org/2017/494.pdf
 
 https://arxiv.org/pdf/1808.01945.pdf
 
+最新
+https://arxiv.org/pdf/1904.12215.pdf
