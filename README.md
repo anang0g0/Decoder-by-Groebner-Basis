@@ -8,6 +8,10 @@
 
 ３．https://www.researchgate.net/publication/260867979_QC-LDPC_Code-Based_Cryptography
 
+# 20201219
+
+課題：統計を復号結果にどう適用するか？
+
 # 20201125
 
 人の書いたものをパクろうかと思ったけど、難しくて何だかわからない。
